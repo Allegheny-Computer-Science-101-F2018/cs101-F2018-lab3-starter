@@ -250,7 +250,7 @@ you can go to the [Computer Science 101 Lab 3
 Starter](https://github.com/Allegheny-Computer-Science-101-F2018/cs101-F2018-lab3-starter)
 repository and create an issue by clicking the "Issues" tab and then clicking
 the green "New Issue" button. If you have found a problem with the [GatorGrader
-tool](https://github.com/gkapfham/gatorgrader) and the way that it checks you
+tool](https://github.com/GatorEducator/gatorgrader) and the way that it checks you
 assignment, then you can follow the aforementioned steps to create an issue in
 its repository. To ensure that your issue is properly resolved, please provide
 as many details as is possible about the problem that you experienced. If you
